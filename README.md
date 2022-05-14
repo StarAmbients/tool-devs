@@ -91,5 +91,5 @@
 - [Loainer](https://loiane.training/cursos)
 - [Notion](https://drive.google.com/drive/folders/1kVduKpbrrOVngbLA6PqE9YWfPsxgfPCr?usp=sharing)
 - [Scrum para Devs](https://drive.google.com/drive/folders/1yjJI-0KAJLysoebtlZ9sQ_JEXVhs0FM2?usp=sharing)
-- [Javascript Completo](https://drive.google.com/file/d/1tJUueO3Dhcn04kaW8oWYcdHfFSIp7xya/view)
+
 
