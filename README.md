@@ -38,7 +38,7 @@
 - [Twilio](https://www.twilio.com/pt-br/docs/whatsapp/quickstart/node)
 
 ### Atenticação:
-- [JWT] (https://jwt.io/)
+- [JWT](https://jwt.io/)
 
 ### Mobile
 - [Android](Android.md)
