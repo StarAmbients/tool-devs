@@ -4,5 +4,6 @@
 - [Vite](https://vitejs.dev/)
 - [Redux](https://redux.js.org/)
 - [Context API](https://redux.js.org/)
+- [Phosphor-icons](https://github.com/phosphor-icons/phosphor-home#phosphor-icons)
 - [Rocketseat](https://blog.rocketseat.com.br/tag/reactjs/)
 - [Blog Josias](https://josiaspereira.com.br/)

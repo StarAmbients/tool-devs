@@ -14,9 +14,14 @@
 - [React](React.md)
 - [Palette Colors](https://www.happyhues.co/palettes/12)
 - [Bootstrap](Bootstrap.md)
+- [Materialize](https://materializecss.com/)
+- [HTML](Html.md)
+- [CSS](Css.md)
+- [Javascript](Javascript.md)
 
 ### Backend
-= [MySQL](https://gustavosouza.dev.br/instalando-configurando-mysql-8-no-ubuntu/)
+- [MySQL](https://gustavosouza.dev.br/instalando-configurando-mysql-8-no-ubuntu/)
+- [Elephant SQL](https://customer.elephantsql.com/login)
 - [Sequelize](https://sequelize.org/v3/docs/migrations/)
 - [Prisma](https://www.prisma.io/)
 - [Docker](Docker.md)
@@ -26,6 +31,7 @@
 - [MirajeJS](https://miragejs.com/)
 - [JSON Server](https://gustavosouza.dev.br/criando-api-com-json-server/)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [Twilio](https://www.twilio.com/pt-br/docs/whatsapp/quickstart/node)
 
 ### Mobile
 - [Android](Android.md)
@@ -40,6 +46,8 @@
 ### Prototipação
 - [Figma](https://www.figma.com/)
 - [Wireframa-Balsamiq](https://balsamiq.com/wireframes/)
+- [Marvel](https://marvelapp.com/signin?next=/dashboard/)
+- 
 
 ### Imagens Free
 - [Unsplash](https://unsplash.com/)
@@ -63,4 +71,10 @@
 - [Lottiefiles](https://lottiefiles.com/)
 - [Rive](https://rive.app/welcome/?m=direct)
 
-
+### Utilitários
+- [IloveIMG](https://www.iloveimg.com/)
+- [Pix Generator](https://devtools.com.br/gerador-de-chave-pix/)
+- [Webm-mp4](https://convertio.co/pt/webm-mp4/)
+- [Audio Converter](https://online-audio-converter.com/pt/)
+- [Editor Imagens](https://pixlr.com/br/x/)
+- [Pagespeed](https://pagespeed.web.dev/)
