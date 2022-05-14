@@ -7,4 +7,4 @@
 - [Jetpack](https://developer.android.com/jetpack)
 - [Espresso-tests](https://developer.android.com/training/testing/espresso)
 - [Thiengo Calopsita](https://www.thiengo.com.br/android)
-- - [Repo-Curso Android](https://github.com/profmaddo/Curso-Desenvolvimento-Android/tree/master/Aulas2016_2021)
+- [Repo-Curso Android](https://github.com/profmaddo/Curso-Desenvolvimento-Android/tree/master/Aulas2016_2021)

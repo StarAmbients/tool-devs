@@ -47,7 +47,6 @@
 - [Figma](https://www.figma.com/)
 - [Wireframa-Balsamiq](https://balsamiq.com/wireframes/)
 - [Marvel](https://marvelapp.com/signin?next=/dashboard/)
-- 
 
 ### Imagens Free
 - [Unsplash](https://unsplash.com/)
@@ -78,3 +77,8 @@
 - [Audio Converter](https://online-audio-converter.com/pt/)
 - [Editor Imagens](https://pixlr.com/br/x/)
 - [Pagespeed](https://pagespeed.web.dev/)
+
+## Cursos
+- [Notion](https://drive.google.com/drive/folders/1kVduKpbrrOVngbLA6PqE9YWfPsxgfPCr?usp=sharing)
+- [Scrum para Devs](https://drive.google.com/drive/folders/1yjJI-0KAJLysoebtlZ9sQ_JEXVhs0FM2?usp=sharing)
+  
