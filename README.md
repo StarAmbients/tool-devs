@@ -1,4 +1,4 @@
-# Ferramentas e Documentações para Devs :robot:
+# Dicas, Documentações, Ferramentas para Devs :robot:
 
 ### Configuração
 - [SSH Key](https://gustavosouza.dev.br/adicionando-chave-ssh-no-seu-github/)
@@ -78,7 +78,18 @@
 - [Editor Imagens](https://pixlr.com/br/x/)
 - [Pagespeed](https://pagespeed.web.dev/)
 
+## Repositórios 
+- [Packs Sites](https://drive.google.com/drive/folders/1gKub8_9g-xA3LYGeWwpGvhSN9RcZT1Ey)
+- [Marketing Digital](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/o5giSZ4Q)
+- [5 Liberdades](https://mega.nz/folder/IxtEVAbZ#--CjnkkFdHpW_8oLKTtSAw)
+
 ## Cursos
+
+- [Fiap Cursos](https://on.fiap.com.br/index.php)
+- [Microsoft Academic](https://docs.microsoft.com/pt-br/learn/?lang=pt-br%3Flang%3Dpt-BR)
+- [Tim Tec](https://cursos.timtec.com.br/)
+- [Loainer](https://loiane.training/cursos)
 - [Notion](https://drive.google.com/drive/folders/1kVduKpbrrOVngbLA6PqE9YWfPsxgfPCr?usp=sharing)
 - [Scrum para Devs](https://drive.google.com/drive/folders/1yjJI-0KAJLysoebtlZ9sQ_JEXVhs0FM2?usp=sharing)
-  
+- [Javascript Completo](https://drive.google.com/file/d/1tJUueO3Dhcn04kaW8oWYcdHfFSIp7xya/view)
+
