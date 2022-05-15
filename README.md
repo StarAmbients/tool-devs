@@ -15,7 +15,6 @@
 - [HTML](Html.md)
 - [CSS](Css.md)
 - [Javascript](Javascript.md)
-- [Java](Java.md)
 - [Angular](Angular.md)
 - [React](React.md)
 - [Vue](https://v2.vuejs.org/v2/guide/)
@@ -24,6 +23,7 @@
 - [Materialize](https://materializecss.com/)
 
 ### Backend
+- [Java](Java.md)
 - [MySQL](MySQL.md)
 - [Elephant SQL](https://customer.elephantsql.com/login)
 - [Sequelize](https://sequelize.org/v3/docs/migrations/)
