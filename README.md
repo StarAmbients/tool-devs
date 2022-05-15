@@ -73,6 +73,9 @@
 - [Wireframa-Balsamiq](https://balsamiq.com/wireframes/)
 - [Marvel](https://marvelapp.com/signin?next=/dashboard/)
 
+### Manager
+- [Whimsical](https://whimsical.com/)
+
 ### DevOps 
 - [Terraform](https://learn.hashicorp.com/terraform)
 - [AWS](https://aws.amazon.com/pt/)
