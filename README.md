@@ -29,7 +29,8 @@
 - [Sequelize](https://sequelize.org/v3/docs/migrations/)
 - [Prisma](https://www.prisma.io/)
 - [Docker](Docker.md)
-- [HTTP-Codes](https://www.npmjs.com/package/http-status-codes)
+- [NodeJs](Nodejs.md)
+
 
 ### API
 - [MirajeJS](https://miragejs.com/)
@@ -51,6 +52,7 @@
 - [Cypress](https://www.cypress.io/)
 - [Jasmine](https://jasmine.github.io/)
 - [Chai](https://www.chaijs.com/)
+- [Selenium](https://www.selenium.dev/)
 
 ### Deploy
 - [Heroku](https://dashboard.heroku.com/login)
@@ -73,8 +75,12 @@
 - [Wireframa-Balsamiq](https://balsamiq.com/wireframes/)
 - [Marvel](https://marvelapp.com/signin?next=/dashboard/)
 
-### Manager
+### Tools Manager
 - [Whimsical](https://whimsical.com/)
+- [Trello](https://trello.com/)
+- [Jira](https://www.atlassian.com/br/software/jira)
+- [Notion](https://www.notion.so/)
+- [Lucid](https://lucid.app/)
 
 ### DevOps 
 - [Terraform](https://learn.hashicorp.com/terraform)
@@ -115,6 +121,10 @@
 ## Repositórios 
 - [Marketing Digital](https://mega.nz/folder/AsZ3zAAK#aAppQXvBxQLI5r2MtCaNkQ/folder/o5giSZ4Q)
 - [5 Liberdades](https://mega.nz/folder/IxtEVAbZ#--CjnkkFdHpW_8oLKTtSAw)
+
+## Livros
+- [Casa do Código](https://drive.google.com/drive/folders/1N3Cs8z2DbG3-bfH3jUpJwm3wId9VDO5B?usp=sharing)
+- [Caleum](https://drive.google.com/drive/folders/1D2Zo_eTwf0-SQ561rsHU-3C7OXDkIdl5?usp=sharing)
 
 ## Cursos
 - [Fiap Cursos](https://on.fiap.com.br/index.php)
