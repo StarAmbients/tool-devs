@@ -6,10 +6,6 @@
 - [GitLab](https://gitlab.com/users/sign_in)
 - [ESLint](https://eslint.org/docs/user-guide/getting-started)
 
-### Lógica
-- [HackRank](https://www.hackerrank.com/)
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
-
 ### Web
 - [VSCode](https://code.visualstudio.com/)
 - [HTML](Html.md)
@@ -31,7 +27,6 @@
 - [Docker](Docker.md)
 - [NodeJs](Nodejs.md)
 
-
 ### API
 - [MirajeJS](https://miragejs.com/)
 - [JSON Server](https://gustavosouza.dev.br/criando-api-com-json-server/)
@@ -45,6 +40,12 @@
 - [Android](Android.md)
 - [ReactNative](ReactNative.md)
 - [Flutter](Flutter.md)
+
+### Desafios
+- [HackRank](https://www.hackerrank.com/)
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/login)
+- [Codier](https://codier.io/)
+- [Devchallenges](https://devchallenges.io/)
 
 ### Testes
 - [Jest](Jest.md)
@@ -127,11 +128,17 @@
 - [Caleum](https://drive.google.com/drive/folders/1D2Zo_eTwf0-SQ561rsHU-3C7OXDkIdl5?usp=sharing)
 
 ## Cursos
+- [AWS](https://explore.skillbuilder.aws/learn?cta=dt_topbanner)
+- [CODERS](https://www.cod3r.com.br/collections?category=cursos-gratuitos)
+- [DIO](https://web.dio.me)
 - [Fiap Cursos](https://on.fiap.com.br/index.php)
-- [Microsoft Academic](https://docs.microsoft.com/pt-br/learn/?lang=pt-br%3Flang%3Dpt-BR)
-- [Tim Tec](https://cursos.timtec.com.br/)
+- [Fundação Bradesco](https://www.ev.org.br/areas-de-interesse/tecnologia-da-informacao)
 - [Loainer](https://loiane.training/cursos)
+- [Microsoft Academic](https://docs.microsoft.com/pt-br/learn/?lang=pt-br%3Flang%3Dpt-BR)
 - [Notion](https://drive.google.com/drive/folders/1kVduKpbrrOVngbLA6PqE9YWfPsxgfPCr?usp=sharing)
 - [Scrum para Devs](https://drive.google.com/drive/folders/1yjJI-0KAJLysoebtlZ9sQ_JEXVhs0FM2?usp=sharing)
+- [Tim Tec](https://cursos.timtec.com.br/)
+- [Rocketseat](https://www.rocketseat.com.br/discover )
 
-
+## Ideias
+- [App Ideias](https://github.com/florinpop17/app-ideas)
